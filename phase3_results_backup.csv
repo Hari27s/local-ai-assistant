@@ -1,0 +1,14 @@
+model,prompt,run,ttft_ms,total_latency_ms,load_ms,output_tokens,tokens_per_second
+llama3.2:1b,What is artificial intelligence? Explain in 3 sentences.,1,2824.8,10866.28,36.01,91,11.32
+llama3.2:1b,What is artificial intelligence? Explain in 3 sentences.,2,2211.58,10124.07,36.46,91,11.5
+llama3.2:1b,What is artificial intelligence? Explain in 3 sentences.,3,2200.58,10783.17,38.05,91,10.67
+llama3.2:1b,What is a transistor? Explain simply.,1,2790.3,13467.69,36.93,120,11.08
+llama3.2:1b,What is a transistor? Explain simply.,2,2175.13,12712.93,42.53,120,11.38
+llama3.2:1b,What is a transistor? Explain simply.,3,2216.57,12811.34,39.25,120,11.32
+llama3.2:1b,Write a Python program to add two numbers.,1,2712.44,14068.22,35.79,120,10.57
+llama3.2:1b,Write a Python program to add two numbers.,2,2191.75,13000.5,48.37,120,11.25
+llama3.2:1b,Write a Python program to add two numbers.,3,2233.94,12732.58,38.66,120,11.42
+qwen2.5:1.5b,What is artificial intelligence? Explain in 3 sentences.,1,2688.56,5878.7,37.46,43,13.43
+qwen2.5:1.5b,What is artificial intelligence? Explain in 3 sentences.,2,2243.71,5338.23,35.24,43,13.77
+qwen2.5:1.5b,What is artificial intelligence? Explain in 3 sentences.,3,2203.51,5318.97,39.04,43,13.81
+qwen2.5:1.5b,What is a transistor? Explain simply.,1,2651.17,6764.46,36.45,50,12.17

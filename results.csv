@@ -1,0 +1,10 @@
+model,prompt,run,ttft_ms,total_latency_ms,output_tokens,tokens_per_second
+llama3.2:1b,What is artificial intelligence? Explain in 3 sentences.,1,6179.55,13412.78,91,12.54
+llama3.2:1b,What is artificial intelligence? Explain in 3 sentences.,2,2187.93,8960.38,91,13.43
+llama3.2:1b,What is artificial intelligence? Explain in 3 sentences.,3,2199.79,8514.57,91,14.32
+llama3.2:1b,What is a transistor?,1,2454.46,37257.6,458,13.15
+llama3.2:1b,What is a transistor?,2,2157.91,37444.23,458,12.98
+llama3.2:1b,What is a transistor?,3,2152.79,36363.24,458,13.39
+llama3.2:1b,Write a Python program to add two numbers.,1,2687.95,27110.14,328,13.43
+llama3.2:1b,Write a Python program to add two numbers.,2,2184.74,27936.43,328,12.74
+llama3.2:1b,Write a Python program to add two numbers.,3,2168.09,28805.89,328,12.31
