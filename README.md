@@ -66,7 +66,7 @@ ollama pull llama3.2:1b
 git clone https://github.com/Hari27s/local-ai-assistant.git
 cd local-ai-assistant
 
-Replace "YOUR-USERNAME" with your GitHub username.
+Replace "Hari27s" with your GitHub username.
 
 4. Create and activate a virtual environment
 
@@ -102,7 +102,6 @@ The assistant measures:
 🔮 Future Improvements
 
 - Improve long-term memory and reliable fact recall.
-- Add a simple graphical user interface.
 - Add automated benchmark reports and visualizations.
 - Evaluate more local language models.
 - Improve error handling and response validation.
